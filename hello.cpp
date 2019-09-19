@@ -11,7 +11,7 @@ just //=========================================================================
 using namespace std;
 
 int main() {
-	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
+	cout << "!!!Hello Wor!!" << endl; // prints !!!Hello World!!!
 	return 0;
 }
 readme
